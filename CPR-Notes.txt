@@ -40,7 +40,8 @@
 		Auto-delete after 24 hours {worked}
 		Cloak [9]
 	From runner
-		Body Weight 
+		Body Weight + Kevlar hood
+		Smart Lenses
 		Raven Microcyb Hummingbird(KRASH Barrier)
 		Deagle (VH Pistol)
 		3x Drones
