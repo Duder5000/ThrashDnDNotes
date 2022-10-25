@@ -1,17 +1,13 @@
 INT		= +2	|	Coprocessor	(*neural link)		| HL 14	| 1000eb
 REF		= +2	|	Steady Aim (rec cyberarm)		| HL 14	| 1000eb
-DEX		= +2	|	Adrenelin ingector (speedware)	| HL 7	| 
+DEX		= +2	|	Adrenaline Injector (speedware)	| HL 7	| 
 TECH	= +2	|	Schematic Archive (chipware)	| HL 7	| 500eb
 COOL	= +2	|	Synth Pheromones (internal)		| HL 14	| 1000eb
 WILL	= +2	|	Mental Blinders (*neural link)	| HL 7	| 
-LUCK	= +1 	| 	Luck Totem Sigmna (external)	| HL 7	| 500eb
+LUCK	= +1 	| 	Luck Totem Sigma (external)		| HL 7	| 500eb
 		= +2 	| 	Luck Totem Beta (external)		| HL 7	| 1000eb
-		= +3 	| 	Luck Totem Gamma (external)		| HL 7	| 2500eb
-MOVE	= +2	|	Digitigrade Legs [Neon Red]		| HL 7	| 
-BODY	= +2	|	Grafted Muscle [core book]		| HL 14	| 1000eb
-		= 12	|	Linear Frame Sigma [core book]	| HL 14	| 1000eb
-		= 14	|	Linear Frame Beta [core book]	| HL 14	| 5000eb
-		= ??	|	Linear Frame Gamma [chromebook]	| HL ??	| ??eb
+		= +3 	| 	Luck Totem Omega (external)		| HL 7	| 2500eb
+MOVE	= +2	|	Digitigrade Legs [Neon Red]		| HL 7	| 500eb
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
