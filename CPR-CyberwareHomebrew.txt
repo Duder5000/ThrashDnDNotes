@@ -1,0 +1,20 @@
+INT		= +2	|	Coprocessor	(rec neural link)	| HL 14
+REF		= +2	|	Adrenelin ingector (speedware)	| HL 7
+DEX		= +2	|	??? (speedware)					| HL 7
+TECH	= +2	|	Schematic Archive (chipware)	| HL 7
+COOL	= +2	|	Synth Pheromones (internal)		| HL 14
+WILL	= +2	|	
+LUCK	= +1 	| 	Luck Totem implant (external)	| HL 7
+MOVE	= +2	|	Digitigrade Legs [Neon Red]		| HL 7
+BODY	= +2	|	Grafted Muscle [core book]		| HL 14
+		= 12	|	Linear Frame Sigma [core book]	| HL 14
+		= 14	|	Linear Frame Beta [core book]	| HL 14
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Mantis Blade(s)**
+	Single arm 	= 3d6 ROF: 1
+	2 arms 		= 3d6 ROF: 2
+		Additoanlly, can distrcutivly climb any serface with difficult terrain, may require an athletics check for a more durable serface
+	4 arms		= 4d6 ROF: 2
+		Same as 2 arms, but without difficult terrain
