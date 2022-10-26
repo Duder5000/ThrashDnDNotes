@@ -38,7 +38,7 @@
 	Virus[13]: 
 		Full access {first 3 floors}
 		Auto-delete after 24 hours {worked}
-		Cloak [9]
+		**Cloak [9]**
 	From runner
 		Body Weight + Kevlar hood
 		Smart Lenses
