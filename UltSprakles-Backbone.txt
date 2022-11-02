@@ -72,44 +72,68 @@ Sparkles on a Bus
 Crash & Burn (Little China)
 	-Players: Ling Po & his gang, Casino staff
 	-Main Events: Sparkles start to preform, then has her 'crash & burn' moment, Ling Po gets really pissed off an denies money
-	-Pay: Roll 12d6 for how much the Casino makes, Sparkles gets 20% + 1000
+	-Pay: Roll 12d6 for how much the Casino makes, Sparkles gets 25% + 1000
 
 	Show Prep:
-		-The Plan:
-		-Complecations:
+		-The Plan: Check out the casino, want her to prefor on 3 diffrent stages throguhout the night
+		-Complecations: Party might not want to, Sparkles thinks it'd be fun tho, more casion earnings if she does
 
 	Travel To:
-		-The Plan:
-		-Complecations:
+		-The Plan: No problems
+		-Complecations: n/a
 
 	Pre-Show:
-		-The Plan:
-		-Complecations:
+		-The Plan: Get Sparkles ready
+		-Complecations: Ling Po's assistant tries to get the party to do some gambling
 
 	The Show:
-		-The Plan:
-		-Complecations:
+		-The Plan: Preform & swithc stages
+		-Complecations: Sparkles' fans distract her in between stages, someone's enemy???
 
 	Post-Show:
-		-The Plan:
-		-Complecations:
+		-The Plan: Pack up & leave
+		-Complecations: If crash & burn Ling Po refuseds % and just gives 1000eb
 
 	Travel Home:
-		-The Plan:
-		-Complecations:
+		-The Plan: Head home
+		-Complecations: Sparkles is very sick from the crashing & burning
 
 
 Rehab & Distractions
-	-Players:
-	-Main Events:
+	-Players: Rehab clinic
+	-Main Events: Sparkles spends her time at rehad, but gets board & keeps calling the party members
 	-Cost: Check therapy table
 
 
-Saka Tower DB
-	-Players:
-	-Main Events:
+Saka Tower BD
+	-Players: BD disritbuter(s), marketing contractor(s), fans that are calling her out for faking it
+	-Main Events: Shoot the show, edit the BD, market the BD, release the BD, reactions, profit
 	-Pay: Roll dice for how many DBs get sold
+
+	Shot the BD:
+		-The Plan: Rent somewhere to shoot the BD or just do it in the Badlands
+		-Complecations: Rent = no problems, Badlands = roll for Wraiths
+
+	Edit the BD:
+		-The Plan: Edit the BD to add Sparkles into Saka tower
+		-Complecations: Sparkles doesn't think that the CGI tower doesn't look real, need to go the Saka tower & record the real thing
+
+	Marketing:
+		-The Plan:
+		-Complecations:
+
+	Release:
+		-The Plan:
+		-Complecations:
+
+	Reactions:
+		-The Plan: Fans buy the BD & party makes all the money
+		-Complecations: A small group of fans are really pissed off that she faked it, try to find & destroy the bus (and maybe her appartment)
+
+	Proftis:
+		-The Plan: All the money
+		-Complecations: 6d6 * 1000eb, with losses if the bad fan reaction lasts too long, additions if good marketing
 
 
 Next arc planning
-	-
+	-Sparkles NUSA tour???
