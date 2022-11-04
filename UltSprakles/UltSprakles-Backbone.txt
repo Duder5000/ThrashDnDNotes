@@ -35,11 +35,6 @@ Old Comabt Zone Show
 			Offer: Give back the data & we'll let you live with our chipeware install so you dont mis-behave OR I'll let Helmet (German medtech in black Trama Team gear) have a chat with you while I look for it.
 			How found: Recreated the index & figured out which were missing, working they're way down the list.
 
-
-Sparkles want to get a pet as a gift for Lyssa
-	-Players: Lyssa, Lisbet, Axle
-	-
-
 Sparkles on a Bus
 	-Players: Archangles, Wraiths, other Nomad clans, Militech (ACPA test along the planned route, top-secrite)
 	-Main Events: Show on top of a bus with Nomads following along, plus maybe 'party trucks' with other people
@@ -49,6 +44,7 @@ Sparkles on a Bus
 		-The Plan: Pick the route & defences, advertise to other people & hire drivers, talk to Wraiths, upgrade the bus
 		-Complecations: Wraith hate pop, if they know about it there'll probably be an attack unless the party can prempt it in some way
 		-Cost: Need to figure out, probably best on route distance & number of Helios & AVs
+			-While at the Archangles' camp Sparkles text Lisbet & Axle about buying a gift for Lyssa (pet Cyber-Lynx)
 
 	Travel To:
 		-The Plan: Drive out to meet the Archangles
@@ -98,13 +94,15 @@ Crash & Burn (Little China)
 
 	Travel Home:
 		-The Plan: Head home
-		-Complecations: Sparkles is very sick from the crashing & burning
+		-Complecations: Sparkles is very sick from the crashing & burning, Axle's Zhirafa enemy attacks the bus on the way home.
 
 
 Rehab & Distractions
 	-Players: Rehab clinic
 	-Main Events: Sparkles spends her time at rehad, but gets board & keeps calling the party members
 	-Cost: Check therapy table
+		-Uncle Ker
+		-Lyssa's Uncles
 
 
 Saka Tower BD
@@ -121,12 +119,12 @@ Saka Tower BD
 		-Complecations: Sparkles doesn't think that the CGI tower doesn't look real, need to go the Saka tower & record the real thing
 
 	Marketing:
-		-The Plan:
-		-Complecations:
+		-The Plan: TBD
+		-Complecations: TBD
 
 	Release:
-		-The Plan:
-		-Complecations:
+		-The Plan: TBD
+		-Complecations: TBD
 
 	Reactions:
 		-The Plan: Fans buy the BD & party makes all the money

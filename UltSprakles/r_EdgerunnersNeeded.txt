@@ -5,8 +5,8 @@ Wanted Dead or Alive - Bonecusher, Animals Lt in South Night City. Armed and ext
 Pigeon Wranglers Needed! Some jerks smashed my coop and now 100 pigeons are loose. 100eb per piegeon reward. (All pigeons are 'shine birds')
 Vampire killed my sister! Help!
 Book store needs help. I've got a shipment of real paper books coming in next week and need help unloading them. 150eb pay.
-Exterminator Needed!!! Those damn racoons are back!!! (
-FOOD TESTERS NEEDED! We at Barringtion Bakery are looking for subjects for our NEW combat kibble. We infuse our kibble with all the viatiumns, minerals, and electrolytes a growing merc needs. And it tastes good too!
+Exterminator Needed!!! Those damn racoons are back!!! (There's a nrealy cyberpsyco boosterganger living in his attic. He's addicted to Blue Glass, all that is keeping from going cyberpsyco)
+FOOD TESTERS NEEDED! We at Barringtion Bakery are looking for subjects for our NEW combat kibble. We infuse our kibble with all the viatiumns, minerals, and electrolytes a growing merc needs. And it tastes good too! (see Combat Kibble below)
 Lost Arrow: While practicing with his bow, my son (Oliver) lost his trophy arrow (he was not suppsoed to use). He was praticing ont he roof and thinks it went into the Hot Zone. Please retrieve this arrow. Contect for reward amount.
 The Vulgar Guinea Pig is looking for a Rocker to entertain the crowds on Thursday nights. Pay: 50eb a night and bottomless drinks.
 The NUSA army needs your skills! Join today fight the good fight & see the world.
@@ -16,3 +16,23 @@ Come join the first annunal bucket festival! Bring a bucket and your favorite dr
 WHO AM I!?!?!?!?!? I woke up in a gutter this morning out side of the Not-Tell-Motel on Hill street. I do not remember who I am, where I am from, what my name is, anything. I have a credchip with a large amount of ebs on it. If you assist me, I would be happy to compensate you, for it seem whoever I am, it is a woman of means.
 FIRST CLASS MALE! Speak to Dorian for informations.
 Horsebreackers needed! The chipware I bought for them turned out to be fake so I need people to help teach them to ride. The job is successful if you can get the horse to calmly accept rider and simple orders. 200eb per horse and maybe other rewards ;)
+
+
+**Combat Kibble**
+Cost per Dose: 50eb 
+Primary Effect: 
+	-Lasts 1 hours
+	-For the duration of the Primary Effect, the user's DEX increases by 2 point. This can raise your DEX above 12. In addition, everyone else seems like they are talking & moving very slowly. Most people will be very annoyed by this (act kinda like Quicksilver).
+Secondary Effect (DV15):
+	-If the user wasn't already addicted to Combat Kibble, they are now. While addicted, their DEX is lowered by 2 points, unless the user is currently experiencing the Primary Effect of Combat Kibble.
+	-While addicted to Combat Kibble, your GM will occasionally tell you when you crave more Combat Kibble, and you should do your best to roleplay accordingly. In addition, you constently feel slugish. Ex. running without the Primary Effect feels like walking through water.
+
+**Blue Glass**
+Cost per Dose: 20eb
+Primary Effect:
+	-Lasts 4 Hours.
+	-For the duration of the Primary Effect, the user's EMP increases by 2 point. This can raise your EMP above 4. In addition, the GM will occasionally tell you when you are "flashing out," meaning you are hallucinating swirls of vibrant colors in short, powerful bursts. 
+	-During combat, at the start of each turn roll a d6, on a 1 you lose your ability to do an Action on that Turn.
+Secondary Effect (DV13):
+	-If the user wasn't already addicted to Blue Glass, they are now.
+	-While addicted to Blue Glass and not currently under the primary effects of Blue Glass, you when you crave more Blue Glass & occationally hallucinate your Cyberware coming to life & ripping itself from your body, and you should do your best to roleplay accordingly.
