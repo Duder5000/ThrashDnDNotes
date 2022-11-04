@@ -32,9 +32,9 @@ Secondary Effect (DV15):
 Cost per Dose: 20eb
 Primary Effect:
 	-Lasts 4 Hours.
-	-For the duration of the Primary Effect, the user's EMP increases by 2 points. This cannot raise your EMP above 4. 
-	-In addition, the GM will occasionally tell you when you are "flashing out," meaning you are hallucinating swirls of vibrant colors in short, powerful bursts. 
-	-During combat, at the start of each of your turns roll a d6, on a 1 you cannot take an Action this Turn.
+	-For the duration of the Primary Effect, the user's EMP increases by 2 points. This can raise your EMP above 8. 
+	-In addition, the GM will occasionally tell you when you are "flashing out", meaning you are hallucinating swirls of vibrant colors in short, powerful bursts. 
+	-During combat, at the start of each of your turns roll a d10, on a 1 you are "flashing out" and cannot take an Action this Turn.
 Secondary Effect (DV13):
 	-If the user wasn't already addicted to Blue Glass, they are now.
 	-While addicted to Blue Glass and not under the primary effects of Blue Glass, you crave more Blue Glass and occasionally hallucinate your Cyberware coming to life & ripping itself from your body (you should do your best to roleplay accordingly).
