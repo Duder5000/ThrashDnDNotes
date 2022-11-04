@@ -22,7 +22,8 @@ Horsebreackers needed! The chipware I bought for them turned out to be fake so I
 Cost per Dose: 50eb 
 Primary Effect: 
 	-Lasts 1 hours
-	-For the duration of the Primary Effect, the user's DEX increases by 2 point. This can raise your DEX above 12. In addition, everyone else seems like they are talking & moving very slowly. Most people will be very annoyed by this (act kinda like Quicksilver).
+	-For the duration of the Primary Effect, the user's DEX increases by 2 point. This can raise your DEX above 8. 
+	-In addition, everyone else seems like they are talking & moving very slowly. Most people will be very annoyed by this (act kinda like comics Quicksilver).
 Secondary Effect (DV15):
 	-If the user wasn't already addicted to Combat Kibble, they are now. While addicted, their DEX is lowered by 2 points, unless the user is currently experiencing the Primary Effect of Combat Kibble.
 	-While addicted to Combat Kibble, your GM will occasionally tell you when you crave more Combat Kibble, and you should do your best to roleplay accordingly. In addition, you constently feel slugish. Ex. running without the Primary Effect feels like walking through water.
@@ -31,8 +32,9 @@ Secondary Effect (DV15):
 Cost per Dose: 20eb
 Primary Effect:
 	-Lasts 4 Hours.
-	-For the duration of the Primary Effect, the user's EMP increases by 2 point. This can raise your EMP above 4. In addition, the GM will occasionally tell you when you are "flashing out," meaning you are hallucinating swirls of vibrant colors in short, powerful bursts. 
-	-During combat, at the start of each turn roll a d6, on a 1 you lose your ability to do an Action on that Turn.
+	-For the duration of the Primary Effect, the user's EMP increases by 2 point. This cannot raise your EMP above 4. 
+	-In addition, the GM will occasionally tell you when you are "flashing out," meaning you are hallucinating swirls of vibrant colors in short, powerful bursts. 
+	-During combat, at the start of each of your turns roll a d6, on a 1 you cannot take an Action this Turn.
 Secondary Effect (DV13):
 	-If the user wasn't already addicted to Blue Glass, they are now.
-	-While addicted to Blue Glass and not currently under the primary effects of Blue Glass, you when you crave more Blue Glass & occationally hallucinate your Cyberware coming to life & ripping itself from your body, and you should do your best to roleplay accordingly.
+	-While addicted to Blue Glass and not under the primary effects of Blue Glass, you crave more Blue Glass and occationally hallucinate your Cyberware coming to life & ripping itself from your body (you should do your best to roleplay accordingly).
