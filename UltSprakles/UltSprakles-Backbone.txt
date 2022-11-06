@@ -1,7 +1,3 @@
-~~Write / frinds a few other side/edgerunner jobs (+ appartment job map)
-~~IEC Solos looking for the missing storage blases
-~~Check people's backstories for other complications / distractions
-
 **Old Comabt Zone Show**
 	-Players: Metal Warriors, Voodoo Boys, Inquistiors, Scavs (on the zone roads), Twats, IEC Solos (possibly)
 	-Main events: Show prep, travel to, pre-show, show, post-shop, travel home
@@ -98,7 +94,7 @@
 		-Complecations: Ling Po's assistant tries to get the party to do some gambling
 
 	The Show:
-		{find casino map}
+		{theater of the mind}
 		-The Plan: Preform & swithc stages
 		-Complecations: Sparkles' fans distract her in between stages
 			-Someone's enemy or friend is at the casino???
