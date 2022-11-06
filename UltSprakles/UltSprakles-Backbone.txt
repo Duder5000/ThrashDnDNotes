@@ -22,13 +22,13 @@
 		-The Plan: Get Sparkles ready for the show
 		-Complecations: Oh! My! God! Where is ??? (cloathing person)! I don't have my stuff for the show! Lesbet Help! Lyssa Help? Whata I do!?!?
 
-	The Show: ???
-		{waiting on Chloe}
-		-The Plan: Wats open then Sparkles show
-		-Complecations: Somethign with Twats?
+	The Show: Runner-punk
+		{no map}
+		-The Plan: Wats open then Sparkles show, Twats do a shout out to Anton's daughter (Leona Silver)
+		-Complecations: goes to plan
 
-	Post-Show: ???
-		{waiting on Chloe}
+	Post-Show: Cunts attack
+		{use high court}
 		-The Plan: After party with Twats
 		-Complecations: Cunt found out about Twats show & decide to get some revenge. Show up at their fav bar/club to wait for & jump them, Vaughn still missing an arm 
 
