@@ -24,14 +24,14 @@
 		-Complecations: goes to plan
 
 	Post-Show: Cunts attack
-		{use high court}
-		-The Plan: After party with Twats
-		-Complecations: Cunt found out about Twats show & decide to get some revenge. Show up at their fav bar/club to wait for & jump them, Vaughn still missing an arm 
+		{need outside map}
+		-The Plan: Cunts start playing a cover of 1 of Sparkles' songs at the end of her show
+		-Complecations: Let's see what happens
 
 	Tavel Home
 		{map ready}
 		-The Plan: Drive home
-		-Complecations: IEC Solos waiting at the appratment [maybe need to check the cloak roll, the Solos will eventually find them tho, the Solos will go after whoevery is most-like, the party might hear depending who]
+		-Complecations: IEC merc waiting at the appratment (Solo & Medtech in apartment, netrunner in a NCPD car out front, checking face scans)
 			Offer: Give back the data & we'll let you live with our chipeware install so you dont mis-behave OR I'll let Helmet (German medtech in black Trama Team gear) have a chat with you while I look for it.
 			How found: Recreated the index & figured out which were missing, working they're way down the list.
 
