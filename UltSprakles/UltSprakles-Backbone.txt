@@ -1,103 +1,120 @@
-**Nov 6+ Planning**
-
 ~~Write / frinds a few other side/edgerunner jobs (+ appartment job map)
 ~~IEC Solos looking for the missing storage blases
 ~~Check people's backstories for other complications / distractions
 
-Old Comabt Zone Show
+**Old Comabt Zone Show**
 	-Players: Metal Warriors, Voodoo Boys, Inquistiors, Scavs (on the zone roads), Twats, IEC Solos (possibly)
 	-Main events: Show prep, travel to, pre-show, show, post-shop, travel home
 	-Pay: 7000eb from WV and 5000eb from VB
 	
 	Show prep: Meet with Lt. Anton Silver (MW) and Jean-ki-ri (VB)
+		{no map}
 		-The plan: Check out the stadium, meet contacts, MW will have gaurds station outside, but not inside, VB net guards
 		-Complecations: VB doesn't want Lyssa in their net, might be able to convince them, MW doesn't want to 'poilce' activity inside the stadium
 
 	Travel To: Bus from parking garage to the Old Zone staduim
+		{map ready}
 		-The Plan: Just drive the bus
 		-Complecations: Scavs with armored cars (looks like might be stolen from Nomads) tries to steal the bus, will flee once all car armor is broken (blastic glass + armor plating)
 
 	Pre-Show: Missing costume
+		{no map}
 		-The Plan: Get Sparkles ready for the show
 		-Complecations: Oh! My! God! Where is ??? (cloathing person)! I don't have my stuff for the show! Lesbet Help! Lyssa Help? Whata I do!?!?
 
-	The Show: [???Waiting for message from Chloe???]
+	The Show: ???
+		{waiting on Chloe}
 		-The Plan: Wats open then Sparkles show
 		-Complecations: Somethign with Twats?
 
-	Post-Show: [???Waiting for message from Chloe???]
+	Post-Show: ???
+		{waiting on Chloe}
 		-The Plan: After party with Twats
 		-Complecations: Cunt found out about Twats show & decide to get some revenge. Show up at their fav bar/club to wait for & jump them, Vaughn still missing an arm 
 
 	Tavel Home
+		{map ready}
 		-The Plan: Drive home
 		-Complecations: IEC Solos waiting at the appratment [maybe need to check the cloak roll, the Solos will eventually find them tho, the Solos will go after whoevery is most-like, the party might hear depending who]
 			Offer: Give back the data & we'll let you live with our chipeware install so you dont mis-behave OR I'll let Helmet (German medtech in black Trama Team gear) have a chat with you while I look for it.
 			How found: Recreated the index & figured out which were missing, working they're way down the list.
 
-Sparkles on a Bus
+**Sparkles on a Bus**
 	-Players: Archangles, Wraiths, other Nomad clans, Militech (ACPA test along the planned route, top-secrite)
 	-Main Events: Show on top of a bus with Nomads following along, plus maybe 'party trucks' with other people
 	-Pay: Depends on number of Nomad clans that go
 
 	Show Prep: Cayde sets up the route & secruity with Archangle, maybe out reach to Wraiths
+		{no map}
 		-The Plan: Pick the route & defences, advertise to other people & hire drivers, talk to Wraiths, upgrade the bus
 		-Complecations: Wraith hate pop, if they know about it there'll probably be an attack unless the party can prempt it in some way
 		-Cost: Need to figure out, probably best on route distance & number of Helios & AVs
 			-While at the Archangles' camp Sparkles text Lisbet & Axle about buying a gift for Lyssa (pet Cyber-Lynx)
 
 	Travel To:
+		{no map}
 		-The Plan: Drive out to meet the Archangles
 		-Complecations: Maybe problems depending on bus upgrades
 
 	Pre-Show:
+		{no map}
 		-The Plan: Get Sparkles safely setup on the bus
 		-Complecations: Sparkles is scared after bus was bumpy on while driving though the Badlands, think she'll fall & die
 
 	The Show:
+		{map ready}
 		-The Plan: Drive through the Badlands & do a great show
 		-Complecations: Wraith attack the show unless prempted, maybe able to see them coming & stop them, if not RPG 1 of the Heilos/AVs at random then combat probably bus keeps going & Heilos/AVs attack the Wraith, party goes with them? split? stay with bus?
 
 	Post-Show:
+		{no map}
 		-The Plan: Oh! My! God! That was so super cool! We need to do more shows like that! Like Oh my god!
 		-Complecations: n/a
 
 	Travel Home:
-		-The Plan: Goes well, Sparkles has a gift for Lysaa (pet)
+		{no map}
+		-The Plan: Goes well, Sparkles has a gift for Lysaa (Lynx)
 		-Complecations: n/a
 
 
-Crash & Burn (Little China)
+**Crash & Burn (Little China)**
 	-Players: Ling Po & his gang, Casino staff
 	-Main Events: Sparkles start to preform, then has her 'crash & burn' moment, Ling Po gets really pissed off an denies money
 	-Pay: Roll 12d6 for how much the Casino makes, Sparkles gets 25% + 1000
 
 	Show Prep:
+		{find casino map}
 		-The Plan: Check out the casino, want her to prefor on 3 diffrent stages throguhout the night
 		-Complecations: Party might not want to, Sparkles thinks it'd be fun tho, more casion earnings if she does
 
 	Travel To:
+		{no map}
 		-The Plan: No problems
 		-Complecations: n/a
 
 	Pre-Show:
+		{no map}
 		-The Plan: Get Sparkles ready
 		-Complecations: Ling Po's assistant tries to get the party to do some gambling
 
 	The Show:
+		{find casino map}
 		-The Plan: Preform & swithc stages
-		-Complecations: Sparkles' fans distract her in between stages, someone's enemy???
+		-Complecations: Sparkles' fans distract her in between stages
+			-Someone's enemy or friend is at the casino???
 
 	Post-Show:
+		{no map}
 		-The Plan: Pack up & leave
 		-Complecations: If crash & burn Ling Po refuseds % and just gives 1000eb
 
 	Travel Home:
+		{map ready}
 		-The Plan: Head home
 		-Complecations: Sparkles is very sick from the crashing & burning, Axle's Zhirafa enemy attacks the bus on the way home.
 
 
-Rehab & Distractions
+**Rehab & Distractions**
 	-Players: Rehab clinic
 	-Main Events: Sparkles spends her time at rehad, but gets board & keeps calling the party members
 	-Cost: Check therapy table
@@ -105,7 +122,7 @@ Rehab & Distractions
 		-Lyssa's Uncles
 
 
-Saka Tower BD
+**Saka Tower BD**
 	-Players: BD disritbuter(s), marketing contractor(s), fans that are calling her out for faking it
 	-Main Events: Shoot the show, edit the BD, market the BD, release the BD, reactions, profit
 	-Pay: Roll dice for how many DBs get sold
@@ -135,5 +152,5 @@ Saka Tower BD
 		-Complecations: 6d6 * 1000eb, with losses if the bad fan reaction lasts too long, additions if good marketing
 
 
-Next arc planning
+**Next arc planning**
 	-Sparkles NUSA tour???
