@@ -1,52 +1,44 @@
 Texas - 		https://docs.google.com/document/d/1G_GjtmA3XWQuP58A_AYFgdkAkQ0LjA6GBu9TdSMhzGI/edit
 Extra Notes - 	https://docs.google.com/document/d/1u48N2kgdtRAc1wPT1r-ouCX3rLIliRlK3syJYR0aNLM/edit
 
+**Gorgon Cybernetics**
 Gorgon has been bringing in their new full-borg for testing by MaxTac via the Archangels
-	They have also been smugling in cyberware for the Metal Warriors, their leader is an ex-Ranger
-	The hope is that some MaxTac operators will switch to Cherubael, so that they have field testing to show to Texas Peacekeeping Command (TPC)
-	On of their corp spy (netrunner) at Seward Entertainment was looking for info IEC reaseach, found project Helljummer which was abandoned by IEC b/c they could figure out a way to test it without the ESA finding out
-	Goron has funded a small corp (named Carbon Skies, makes dispoable comabt drones for the militaties of South America & part of the EEC) out of Brasil that has been developing large scale cloaking 
-		Cloak only effective on human sized objects (Eclipes full-body) & slow moving vechiles 
+They have also been smugling in cyberware for the Metal Warriors, their leader is an ex-Ranger
+The hope is that some MaxTac operators will switch to Cherubael, so that they have field testing to show to Texas Peacekeeping Command (TPC)
+On of their corp spy (netrunner) at Seward Entertainment was looking for info IEC reaseach, found project Helljummer which was abandoned by IEC b/c they could figure out a way to test it without the ESA finding out
+Goron has funded a small corp (named Carbon Skies, makes dispoable comabt drones for the militaties of South America & part of the EEC) out of Brasil that has been developing large scale cloaking 
+	Cloak only effective on human sized objects (Eclipes full-body) & slow moving vechiles 
 
-***
-Old Comabt Zone Show - Tavel Home REDUX
+**Old Comabt Zone Show - Tavel Home REDUX**
 	-The Plan: Drive home
 	-Complecations: IEC merc waiting at the appratment (Solo & Medtech in apartment, netrunner in a NCPD car out front, checking face scans)
 		-Offer: Give back the data & we'll let you live with our chipeware install so you dont mis-behave OR I'll let Helmet (German medtech in black Trama Team gear) have a chat with you while I look for it.
 	-Deus Ex Machina (if only Lyssa & Sparkles): Corp spy (netrunner) from Seward has been following the IEC mercs, quick hack to disable the solo's eyes & Goop bomb (pg 375) at the MedTech, tells them to run
 		-Make the spy Mantis (Lyssa's runner friend that tipped them off to Seward)???
-***
 
-Primary cyber-barbarians of Arizona
-	Arizona has been given over to the cyber-barbarians, filled violent barbarians-like clans that are constatnly waring with each other
-	The cyber-barbarians control the only effective routes between cities, need an AV, hover vechile, or heavly modifed off-road vechile to make it on another route. It is also the most direct route which is why the Archangels use it, but they have an understanding with the cyber-barbarians.
-
-	**Death's Heads (Legio Mortis)**
-		-ACPA Nomad-like clan
-		-Durig the outbreak of theth corp war, police & construction APCA operators decided to band together and from a Nomad-like clan in the Arizona desrt.  
-		-https://warhammer40k.fandom.com/wiki/Legio_Mortis
-
-	**Iron Circle**
-		-A single Netrunner (& some demons?) with lots of Cyberware controls several walker drones
-		-Each walker is connected to a portable net on drones flying above.
-		-The netrunner (freelancer) got their brain fired during by another netrunner during the 3rd corp war, couldn't find runner work b/c they were erattic, so they hacked a whole bunch of Arasaka biped drones during the out break of the 4th corp war & created a home for themeselve in New Mexico with their Demon friends (maybe one is a RABID???)
-		-https://wh40k.lexicanum.com/wiki/Iron_Circle
-		-https://rtalsoriangames.com/wp-content/uploads/2022/05/RTG-CPR-DLC-MidnightwtheUpload.pdf
-
-
-***
-Cyber-barbarians notes for Google Keep
-	Road has beacons for AVs to follow when sand storms hits & disturp vision, sensors, & gps
-
-	Cyber-barbarians: lots of street borgs addicted to Blue Ice to function
-
-	Legio Mortis = Death Knight's
-	-still seen as barbarians but can be negotiated with, few few cyberpsycos
-
-	Circle of Iron
-	-roving band of drone protecting some at its center
-
-	Skitarii
-	-group of street borgs that worshiped the machine god & clam to fight off cyberpsycos through his worship
-	-if you run into them, have whoever had the most Cyberware up front & praise the machine god 
-***
+**Arizona**
+	Arizona is almost entierly a desert & is ruled by clans of Cyber-Barbarians.
+	The Cyber-Barbarians are constantly waring with each other & anyone else that just so happens to be passing through.
+	The Cyber-barbarians clans have lots of street borgs addicted to Blue Ice to function.
+	Clans of Cyber-Barbarians (which change almost weekly) control the only effective routes through Arizona. If you're avoiding these routes, you'll need an AV, hover vechile, or an imporved off-road vechile to make it accross the dunes. When a sand storm hits, scrap & pollution in the storm reduces vision to almost 0 & confuzes sensors & GPS.
+	The Archangels have an understanding with the strong clans & can easily fight off the smaller clans at attack them.
+	Most Powerful Clans:
+		-Legio Mortis (Death Knights):
+			-https://warhammer40k.fandom.com/wiki/Legio_Mortis
+			-Clan of ACPA pilots
+			-Most civil of the clans, no Cyberpsychos, can be negotiated with 
+			-Durig the outbreak of the 4th corp war, police & construction APCA operators decided to band together and from a Nomad-like clan in the Arizona desert.  
+		-Iron Circle:
+			-https://wh40k.lexicanum.com/wiki/Iron_Circle
+			-Roving band of biped drones protecting some at its center.
+			-A single Netrunner (plus some demons) with lots of Cyberware controls several walker drones
+			-Each walker is connected to a portable net on drones flying above.
+			-The netrunner (freelancer) got their brain fired during by another netrunner during the 3rd corp war, couldn't find runner work b/c they were erattic, so they hacked a whole bunch of Arasaka biped drones during the out break of the 4th corp war & fleed Arizona.
+			-https://drive.google.com/file/d/1rDEb-Dfj7xArHPcCdwZ5v9hHicWuVt9Y/view?usp=share_link
+		-Skitarii:
+			-https://warhammer40k.fandom.com/wiki/Skitarii
+			-Clan made up enterly of street borgs.
+			-They worship the machine god & clam to fight off cyberpsycos through his worship.
+			-Tech-Priests approve & install all the holy cyberware.
+			-Lower class clan members have less cyberware.
+			-Advise form Archangels: "If you run into them, have whoever has the most Cyberware up front & praise the machine god."
