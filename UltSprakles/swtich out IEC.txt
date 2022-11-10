@@ -22,7 +22,7 @@ Goron has funded a small corp (named Carbon Skies, makes dispoable comabt drones
 	The Cyber-barbarians clans have lots of street borgs addicted to Blue Ice to function.
 	Clans of Cyber-Barbarians (which change almost weekly) control the only effective routes through Arizona. If you're avoiding these routes, you'll need an AV, hover vechile, or an imporved off-road vechile to make it accross the dunes. When a sand storm hits, scrap & pollution in the storm reduces vision to almost 0 & confuzes sensors & GPS.
 	The Archangels have an understanding with the strong clans & can easily fight off the smaller clans at attack them.
-	Alpha: A domed city which envelops the Horseshoe Dam northeast of Phoenix, Alpha remains a mystery. It is a sealed environment, and no one knows any outsiders who have been inside the enclosure. Observers point out that Alpha has been built on the research of previous self-sustaining colonies, like the Bio 1 experiments. In fact, the only thing Alpha imports (as near as anyone can tell) is hydroelectric power. Is A lpha a threat? No one knows.
+
 	Most Powerful Clans:
 		-Legio Mortis (Death Knights):
 			-https://warhammer40k.fandom.com/wiki/Legio_Mortis
@@ -38,14 +38,18 @@ Goron has funded a small corp (named Carbon Skies, makes dispoable comabt drones
 			-https://drive.google.com/file/d/1rDEb-Dfj7xArHPcCdwZ5v9hHicWuVt9Y/view?usp=share_link
 		-Skitarii:
 			-https://warhammer40k.fandom.com/wiki/Skitarii
-			-Clan made up enterly of street borgs.
+			-Clan made up enterly of 'street borgs'
 			-They worship the machine god & clam to fight off cyberpsycos through his worship.
 			-Tech-Priests approve & install all the holy cyberware.
 			-Lower class clan members have less cyberware.
-			-Advise form Archangels: "If you run into them, have whoever has the most Cyberware up front & praise the machine god."
+			-Advise form Archangels: "If you run into them, have whoever has the most Cyberware up front & praise the Machine God."
+			-There home is Alpha, until around a year ago its contence was unknowen, but recently Missionaries of the Machine God have been spreading through out the Cyber-Barbarians clans.
+				-Alpha: A domed city which envelops the Horseshoe Dam northeast of Phoenix, Alpha remains a mystery. It is a sealed environment, and no one knows any outsiders who have been inside the enclosure. Observers point out that Alpha has been built on the research of previous self-sustaining colonies, like the Bio 1 experiments. In fact, the only thing Alpha imports (as near as anyone can tell) is hydroelectric power. Is Alpha a threat? No one knows.
 
 **New Mexico (pg.142)**
-	-military training, mining, oil drilling and processing, stone, & glass
-	-always been primarily desert, and now, with the alterations in the weather patterns, it is entirely so
+	-Military training, weapons testing, mining
+	-Always been primarily desert, and now, with the alterations in the weather patterns, it is entirely so
 	-Most of the state is unlivable, and only Albuquerque and Red Mesa could be considered to be healthy towns.
 	-NUSA military has started weapons testing once again at Alamogordo
+	-Albuquerque: Mostly military personal & civilians contractors to support the weapons testing
+	-Red Mesa: Unified American Nation (American Indian tribes reached an understanding under the leadership of the Navajo and the Cherokee), the UAN does not appreciate U.S. truckers coming through and polluting the air. There have been numerous ambushes and running gun battles along the highway
