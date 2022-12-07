@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CameraActivity">
+
+    <Button
+        android:id="@+id/camera_button"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="140dp"
+        android:text="Camera" />
+
+<!--    <Button-->
+<!--        android:id="@+id/viewLastButton"-->
+<!--        android:layout_width="100dp"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:layout_marginLeft="120dp"-->
+<!--        android:layout_alignLeft="@id/camera_button"-->
+<!--        android:onClick="loadImg"-->
+<!--        android:text="View Last" />-->
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="120dp"
+        android:layout_alignRight="@id/camera_button"
+        android:onClick="saveImgLoc"
+        android:text="Save" />
+
+    <ImageView
+        android:id="@+id/click_image"
+        android:layout_width="350dp"
+        android:layout_height="450dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="10dp" />
+</RelativeLayout>
