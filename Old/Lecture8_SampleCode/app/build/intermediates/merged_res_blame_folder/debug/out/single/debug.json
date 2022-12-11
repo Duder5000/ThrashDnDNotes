@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/layout_activity_dice_roller.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/layout/activity_dice_roller.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/layout_activity_camera.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/layout/activity_camera.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/layout_activity_read_note.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/layout/activity_read_note.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/xml_provider_paths.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/layout_row.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/layout/row.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/drawable_pin.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/drawable/pin.png"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/layout_activity_recycler.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/layout/activity_recycler.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/layout_activity_sql.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/layout/activity_sql.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.hserban.lecture8_samplecode.app-merged_res-29:/drawable-v24_pin24.png.flat",
+        "source": "com.example.hserban.lecture8_samplecode.app-main-31:/drawable-v24/pin24.png"
+    }
+]

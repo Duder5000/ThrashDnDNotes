@@ -1,0 +1,4 @@
+#Tue Mar 06 13:35:42 PST 2018
+base.0=/Users/hserban/Downloads/Lecture8_SampleCode/app/build/intermediates/transforms/dexMerger/debug/1
+renamed.0=classes.dex
+file.0=/Users/hserban/Downloads/Lecture8_SampleCode/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex
