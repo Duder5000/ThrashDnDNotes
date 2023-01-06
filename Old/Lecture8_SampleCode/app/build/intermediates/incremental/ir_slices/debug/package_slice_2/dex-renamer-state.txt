@@ -1,4 +1,0 @@
-#Tue Jun 26 11:34:48 PDT 2018
-base.0=/Users/hserban/Desktop/h/Lecture8_SampleCode/app/build/intermediates/transforms/dexMerger/debug/2
-path.0=classes.dex
-renamed.0=classes.dex
